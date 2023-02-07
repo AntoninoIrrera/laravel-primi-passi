@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shop</title>
+    <title>Blog</title>
 </head>
 
 <body>
@@ -26,8 +26,8 @@
         </nav>
     </header>
     <main>
+        <h1>Ciao questa è la pagina Blog</h1>
 
-        <h1>Ciao questa è la pagina Shop</h1>
     </main>
 </body>
 
