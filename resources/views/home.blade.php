@@ -13,13 +13,13 @@
         <nav>
             <ul style="list-style-type: none; display: flex;">
                 <li style="margin-left: 0.5rem; cursor: pointer;">
-                    <a style="text-decoration: none; color: black;" href="/">Home</a>
+                    <a style="text-decoration: none; color: black;" href="{{route('home')}}">Home</a>
                 </li>
                 <li style="margin-left: 0.5rem; cursor: pointer;">
-                    <a style="text-decoration: none; color: black;" href="/shop">Shop</a>
+                    <a style="text-decoration: none; color: black;" href="{{route('shop')}}">Shop</a>
                 </li>
                 <li style="margin-left: 0.5rem; cursor: pointer;">
-                    <a style="text-decoration: none; color: black;" href="/blog">Blog</a>
+                    <a style="text-decoration: none; color: black;" href="{{route('blog')}}">Blog</a>
                 </li>
             </ul>
         </nav>
